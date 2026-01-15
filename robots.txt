@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://brunovidros47-dot.github.io/brunovidros/sitemap.xml
